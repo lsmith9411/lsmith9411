@@ -3,7 +3,7 @@
 <h2>🖥 Software Development & AI Projects:</h2>
 
 - <b>Global Terrorism Analysis Using Neural Networks</b>
-  - [Analyzing Terrorism Data from 1970-2021](https://github.com/YourGitHubProfile/Global-Terrorism-Analysis)
+  - [Analyzing Terrorism Data from 1970-2021](https://github.com/lsmith9411/GTDB-data-analysis-and-modeling/tree/main)
   - Cleaned and combined data on over 181.7 thousand terrorist attacks around the world
   - Found correlation between attack locations and other overlooked features
   - Created a GAN model to produce maps containing future attack locations
