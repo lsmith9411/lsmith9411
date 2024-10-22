@@ -10,7 +10,7 @@
   - Tech Stack: Python, PyTorch, Pandas, NumPy, Tensorflow
 
 - <b>Analysis of civilian complaints against NYPD officers	</b>
-  - [NYPD Civilian Complaints about officers still on the force](https://github.com/YourGitHubProfile/Graph-Exploration-Neo4j)
+  - [NYPD Civilian Complaints about officers still on the force](https://github.com/lsmith9411/NYPD-Civilian-Complaints)
   - Organized 33,000 complaints against members of the NYPD and visualized in PowerBI dashboard
   - Built predictive model impact of complaint on officers overall career
   - Developed an XGBoosted model produced Balanced Accuracy score of 92%
