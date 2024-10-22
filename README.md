@@ -18,14 +18,14 @@
   - Tech Stack: Python, PowerBI, Tableau, XGboost, Pandas, NumPy
 
 - <b>Predictive Analytics in Fall Detection for Elderly Care</b>
-  - [Fall Detection using Cstick data](https://github.com/YourGitHubProfile/LLM-Fine-Tuning)
+  - [Fall Detection using Cstick data](https://github.com/lsmith9411/Cstick-Fall-Detection)
   - Analyzed 2,040 instances of falls in elderly patients
   - Ran XGBoosted model to predict likelihood of a fall and fall severity
   - Produced 96% accuracy with no false negatives  
   - Tech Stack: Python, PyTorch, XGboost, Pandas, NumPy
 
 - <b>Nuveen & Wells Fargo Financial advisors analysis</b>
-  - [Nuveen predictive analysis on wells fargo advisors](https://github.com/YourGitHubProfile/LLM-Fine-Tuning)
+  - [Nuveen predictive analysis on wells fargo advisors](https://github.com/lsmith9411/Nuveen-financial-analysis)
   - Analyzed 12,253 buyers with 87 features
   - Ran logistics regression to predict which clients were more likely to purchase product
   - Created linear progression models targeting Wells Fargo advisors
