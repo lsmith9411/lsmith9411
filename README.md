@@ -37,7 +37,7 @@
 [<img align="left" alt="LiamSmith | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/YourLinkedInProfile
-[github]: https://github.com/YourGitHubProfile
-[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: www.linkedin.com/in/liam-b-smith-bryant2023
+[github]: https://github.com/lsmith9411
+[instagram]: https://www.instagram.com/liam4smith/
 
